@@ -1,0 +1,46 @@
+
+H
+java:S1444"2Make this "public static PROJECT_PATH" field final(¹çÆà
+N
+java:S1444	"8Make this "public static AVATOR_IMAGES_PATH" field final(ºÁé•
+R
+java:S1444
+"7Make this "public static SONGLIST_PIC_PATH" field final(ˆÓîÄþÿÿÿÿ
+H
+java:S1444"3Make this "public static SONG_PIC_PATH" field final(—“ån
+J
+java:S1444"/Make this "public static SONG_PATH" field final(ý«¹çúÿÿÿÿ
+K
+java:S1444"5Make this "public static SINGER_PIC_PATH" field final(¥®°¥
+\
+java:S1192	"FDefine a constant instead of duplicating this literal "file:" 5 times.(ºÁé•
+n
+java:S1104"XMake PROJECT_PATH a static final constant or non-public and provide accessors if needed.(¹çÆà
+t
+java:S1104	"^Make AVATOR_IMAGES_PATH a static final constant or non-public and provide accessors if needed.(ºÁé•
+x
+java:S1104
+"]Make SONGLIST_PIC_PATH a static final constant or non-public and provide accessors if needed.(ˆÓîÄþÿÿÿÿ
+n
+java:S1104"YMake SONG_PIC_PATH a static final constant or non-public and provide accessors if needed.(—“ån
+p
+java:S1104"UMake SONG_PATH a static final constant or non-public and provide accessors if needed.(ý«¹çúÿÿÿÿ
+q
+java:S1104"[Make SINGER_PIC_PATH a static final constant or non-public and provide accessors if needed.(¥®°¥
+m
+java:S3008"WRename this field "PROJECT_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹çÆà
+s
+java:S3008	"]Rename this field "AVATOR_IMAGES_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÁé•
+w
+java:S3008
+"\Rename this field "SONGLIST_PIC_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÓîÄþÿÿÿÿ
+m
+java:S3008"XRename this field "SONG_PIC_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“ån
+o
+java:S3008"TRename this field "SONG_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý«¹çúÿÿÿÿ
+p
+java:S3008"ZRename this field "SINGER_PIC_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥®°¥
+Q	java:S125"<This block of commented-out lines of code should be removed.(„÷‹¯
+P	java:S125"<This block of commented-out lines of code should be removed.(µªóe
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ³³Ñûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»Èƒûÿÿÿÿ

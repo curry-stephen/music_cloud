@@ -1,399 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7675645d-13a5-4e84-9116-e35ec0601608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/music-client/public/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/api/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/comment.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/personal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/play-list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/singer-detail.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/song-sheet-detail.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/var.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/yy-current-play.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/css/yy-play-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/iconfont.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/iconfont1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/iconfont2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/iconfont3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/iconfont4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/icons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/blur-1851426_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/boy-984293_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/concert-768722_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/ipad-605439_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/microphone-1209816_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/music-notes-3221097_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/piano-1655558_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/swiper/turntable-1337986_640.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/tubiao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/assets/images/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/Comment.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/PlayList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/SongList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungAudio.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungCurrentPlay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungFooter.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungHeader.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungIcon.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungLoginLogo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungPlayBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/components/layouts/YoungScrollTop.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/music-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/router-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/singer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/songList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/swiper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/enums/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/mixins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/store/configure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/store/song.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/store/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/Lyric.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/SignIn.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/SignUp.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/YoungContainer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/error/404.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/personal/Personal.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/personal/PersonalData.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/personal/Upload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/search/Search.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/search/SearchSong.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/search/SearchSongList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/setting/Setting.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/singer/Singer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/singer/SingerDetail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/song-sheet/SongSheet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-client/src/views/song-sheet/SongSheetDetail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/api/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/music-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/router-name.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/enums/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/utils/emitter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/CollectPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/CommentPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/ConsumerPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/InfoPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/ListSongPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/SingerPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/SongListPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music-manage/src/views/SongPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1547476912596tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1547477117223tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1552354056660L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1556201886030L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1556202342449L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1556202365654tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1556202390474tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1556202448064L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979128215tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979156499tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979186433IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979195342tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979427511IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979563994IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979603072IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979626802IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559979985520IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559980182208IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559980194510haidao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559996456831L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559996527919IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559996959895L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559997825186L5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1559999309660IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560000681232tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560019038867IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560169934370L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560170786613L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560171014767user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/1560521573754L5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/165165551168335FB1A4A54BA74B753CFE9F364B4A748.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/16516574410495.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/avatorImages/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/1560014170181tou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/Eminem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/IU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/Morricone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/chengshian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/chenyixun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/dengziqi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/hhh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/huge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/liangyaoxie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/likeqin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/linjunjie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/linyuner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/lironghao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/maobuyi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/pushu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/soler.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/taiyan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/tianfuzhen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/wangfei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/wanglihong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/wuyuetian.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/xusong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/yangzongwei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/yisheng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/zhangbichen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/zhangguorong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/zhangjie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/singerPic/zhoujielun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951162839104712.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951162869937004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951162873752063.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951162895796021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163024198570.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163085244739.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163097151464.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163098238240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163193554791.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163196627760.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163203287436.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163216834301.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163234476379.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163271025942.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163278666363.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163311246502.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163321304060.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163401615779.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163408189924.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163414509421.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163443093546.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163462173993.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163500933771.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163503924397.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163515798929.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163543366840.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163578540101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163579465390.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163594594622.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163597665130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163606909947.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163609743240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163618525359.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163621168769.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163646671507.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163670223947.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163672593019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163692248020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163736178562.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163738160487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163776201870.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163802235324.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163808060526.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163826485303.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163826685601.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163833244126.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163858422257.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163862683663.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163879964479.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163887710551.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163904955394.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163919069037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163921593479.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163924312766.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163932838310.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163933917463.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163936991203.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163938242029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/109951163942747948.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/1390882209600111343.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/1390882209600343.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/1390882211100783.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/1560017681028a32415ca9a21f6f9a1d99b2731f224b5d319c424.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18577348464819001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18591642116274551.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18612532836990988.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18731280092485571.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18804947371714354.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18814842976746273.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18878614648960788.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/18907201951803673.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19053436998325469.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19079825277149145.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19080924789030458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19085322835476516.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19101815510024256.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19152393044479439.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/19169985230816413.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/3416182643161526.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/3434874325869351.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/5832909185359651.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/92NWlGo76ha-if-WMK3vCg==_1410673428769729.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/QHD2Uy2y9ktndbK1UKgdgg==_18611433325258133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/a32415ca9a21f6f9a1d99b2731f224b5d319c424.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/q0ZyCw22PCiTG2LX_A2kew==_109951163594989759.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/vLSB9-NGsd4CLYf_4ShGww==_109951163609572271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/wv2NdfZrUnLDSwk_kQoSZg==_109951163751040922.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songListPic/zhunizouguobansheng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/103354093011859.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951162945634228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951162991116739.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163077613693.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163099854364.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163157531184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163167487498.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163187393370.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163187405670.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163188724796.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163240682406.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163261278540.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163272878671.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163437997103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163520335473.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163681898984.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163739268118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/109951163926969186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1366692963716373.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1369991503018202.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1382086122014772.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1413971959305351.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560025270647L1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560025319294L5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560025341328Blossom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560071574153a32415ca9a21f6f9a1d99b2731f224b5d319c424.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560187083594a32415ca9a21f6f9a1d99b2731f224b5d319c424.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560499093375haikuotiankong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1560521830769haikuotiankong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/1775711278864263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/18252992533269375.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/18885211718782327.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/19196373509550737.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2324367581169008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2505786999719472.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2529976256578329.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2532175279910174.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2537672838499056.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2539871861239300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2539871862623611.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/2542070884980240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/29686813951246.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/3243559303261105.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/3244658814415290.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/3285340745228795.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/4417837720418086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/4460718673904110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/46179488378975.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/6013229092830804.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/6656443395492431.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/6661940953400245.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/778454232471313.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/78065325577772.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/796046418510127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/813638604607979.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Blossom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/ByeByeLove.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Confession.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/HereIam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/IlBuonoIlCattivoIlBrutto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/LoveTheWayYouLie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/OnceUponaTimeintheWest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Ribbon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Shadow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Titoli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/Umbrella.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/buyaoshuohua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/dachengxiaoai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/daoxiang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/gaobaiqiqui.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/guanjianci.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/haikuotiankong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/hebiyaozaiyiqi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/heianqishi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/hongchengkezhan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/hongmeigui.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/jianxin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/juhuatai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/kaibulkou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/lironghao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/longjuanfeng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/moguizhongdetianshi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/nizhan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/nuizaihenmang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/paomo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/qW4N08_Q8PSePV7iewwvHg==_34381728607582.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/qW4N08_Q8PSePV7iewwvHg==_3438172860758204.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/qilixiang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/qingtian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/ruguoai1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/tabudong1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/tingmamadehua.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/tubiao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/xuyaorenpei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/yanhuayileng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/yedediqizhang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/yekongzhongzuiliangdexing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/img/songPic/yinweiaiqing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/五月天-倔强.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/五月天-孙悟空.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/周杰伦-七里香.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/周杰伦-夜曲.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/周杰伦-晴天.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/周杰伦-稻香.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张国荣-想你.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-他不懂.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-剑心.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-天下.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-如果爱.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-逆态度.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张杰-逆战.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/张碧晨-下一秒.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/朴树-平凡之路.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/朴树-白桦林.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/李克勤-红日.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/李荣浩-作曲家.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/李荣浩-李白.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/杨宗纬-多余.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/杨宗纬-空白格.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/林俊杰-关键词.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/林俊杰-学不会.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/林俊杰-江南.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/林允儿-红豆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/毛不易-无问.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/王力宏-唯一.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/王菲-红豆.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/胡歌-逍遥叹.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/许嵩-我乐意.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/song/陈势安-天后.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/yy/MusicApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/yy/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/yy/content/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/src/test/java/com/yy/MusicApplicationTests.java" afterDir="false" />
+    <list default="true" id="7675645d-13a5-4e84-9116-e35ec0601608" name="Default Changelist" comment="第一次提交，前后端分离的音乐网站">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/music-client/node_modules/" />
     <ignored path="$PROJECT_DIR$/music-manage/node_modules/" />
@@ -404,10 +14,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music-client/.browserslistrc">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/music-client/src/views/SignUp.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -447,12 +66,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -489,7 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652620241200</updated>
-      <workItem from="1652620242591" duration="269000" />
+      <workItem from="1652620242591" duration="352000" />
+      <workItem from="1652621373333" duration="231000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交，前后端分离的音乐网站">
       <created>1652620532030</created>
@@ -502,43 +123,52 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269000" />
+    <option name="totallyTimeSpent" value="599000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32960895" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Word Book" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="right" id="Mongo Explorer" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,14 +199,36 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="第一次提交，前后端分离的音乐网站" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交，前后端分离的音乐网站" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/music-client/.browserslistrc">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music-client/src/views/SignUp.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

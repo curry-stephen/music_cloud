@@ -1,0 +1,13 @@
+
+Y
+java:S1128"DRemove this unused import 'io.swagger.annotations.ApiModelProperty'.(í˜í
+—
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒáÏ¼
+E
+java:S1068"*Remove this unused "userId" private field.(±­Ú§ÿÿÿÿÿ
+@
+java:S1068#"*Remove this unused "songId" private field.(Ô¡éÙ
+D
+java:S1068%".Remove this unused "songListId" private field.(º™Ö
+C
+java:S1068'".Remove this unused "createTime" private field.(ßÈ¨L

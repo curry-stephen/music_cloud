@@ -1,0 +1,12 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯Ô«…
+Y
+java:S1128"DRemove this unused import 'io.swagger.annotations.ApiModelProperty'.(í˜í
+D
+java:S1068")Remove this unused "title" private field.(åõò¹ýÿÿÿÿ
+B
+java:S1068 "'Remove this unused "pic" private field.(öÐŒ¨ÿÿÿÿÿ
+K
+java:S1068""0Remove this unused "introduction" private field.(ÞÒä™þÿÿÿÿ
+?
+java:S1068$")Remove this unused "style" private field.(²‹á“

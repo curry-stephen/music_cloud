@@ -1,0 +1,16 @@
+
+q
+java:S1192h"VDefine a constant instead of duplicating this literal "éŸ³ä¹ä¸Šä¼ å¤±è´¥ï¼" 3 times.(°êÕ‘øÿÿÿÿ
+j
+java:S1192O"ODefine a constant instead of duplicating this literal "file.separator" 7 times.(«¬îéÿÿÿÿÿ
+_
+java:S1192C"IDefine a constant instead of duplicating this literal "singerId" 3 times.(©„û†
+]
+java:S1192c"GDefine a constant instead of duplicating this literal "avator" 3 times.(·ëŒÍ
+l	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İöËèùÿÿÿÿ
+K
+java:S1143p"5Remove this return statement from this finally block.(”ˆ¯Ş
+Q
+java:S1143ã"5Remove this return statement from this finally block.(±Õÿúÿÿÿÿ
+Q
+java:S1143"5Remove this return statement from this finally block.(±Õÿúÿÿÿÿ
