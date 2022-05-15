@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yy.dao.Rank_listMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.yy.pojo.Rank_list">
+        <id column="id" property="id" />
+        <result column="songListId" property="songListId" />
+        <result column="consumerId" property="consumerId" />
+        <result column="score" property="score" />
+    </resultMap>
+<select id="selectScoreSum" resultType="java.lang.Integer">
+    select coalesce (sum(score),0) as score from rank_list
+    where songListId = #{0}
+</select>
+    <select id="selectRankNum" resultType="java.lang.Integer">
+        select coalesce (count(id),0) as number from 
+        tp_music.rank_list
+        where songListId=#{0}
+    </select>
+    
+    <insert id="insert" parameterType="com.yy.pojo.Rank_list">
+        insert into rank_list (songListId, consumerId,
+      score)
+    values (#{#{songListId,jdbcType=BIGINT}, #{consumerId,jdbcType=BIGINT},
+      #{score,jdbcType=INTEGER})
+    </insert>
+    <insert id="insertSelective" parameterType="com.yy.pojo.Rank_list">
+        insert into rank_list
+        <trim prefix="(" suffix=")" suffixOverrides="," >
+        
+            <if test="songListId != null" >
+                songListId,
+            </if>
+            <if test="consumerId != null" >
+                consumerId,
+            </if>
+            <if test="score != null" >
+                score,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides="," >
+            <if test="songListId != null" >
+                #{songListId,jdbcType=BIGINT},
+            </if>
+            <if test="consumerId != null" >
+                #{consumerId,jdbcType=BIGINT},
+            </if>
+            <if test="score != null" >
+                #{score,jdbcType=INTEGER},
+            </if>
+        </trim>
+    </insert>
+</mapper>

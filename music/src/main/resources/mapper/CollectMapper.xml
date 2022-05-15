@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yy.dao.CollectMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.yy.pojo.Collect">
+        <id column="id" property="id" />
+        <result column="user_id" property="userId" />
+        <result column="type" property="type" />
+        <result column="song_id" property="songId" />
+        <result column="song_list_id" property="songListId" />
+        <result column="create_time" property="createTime" />
+    </resultMap>
+    <sql id="Base_Column_List">
+        id,user_id,type,song_id,song_list_id,create_time
+    </sql>
+    <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer">
+        select <include refid="Base_Column_List"/>
+        from tp_music.collect
+        where id = #{id,jdbcType=INTEGER}
+    </select>
+    <select id="existSongId" resultType="java.lang.Integer">
+        select  count(*) from collect where user_id=#{userId}
+    </select>
+    <select id="allCollect" resultMap="BaseResultMap">
+        select * from  tp_music.collect
+    </select>
+    <select id="collectionOfUser" resultMap="BaseResultMap" parameterType="java.lang.Integer">
+        select * from collect where user_id=#{userId}
+    </select>
+    <delete id="deleteCollect" parameterType="java.lang.Integer">
+        delete from tp_music.collect
+        where user_id = #{userId}
+        and songId = #{songId}
+    </delete>
+    
+    <insert id="insert" parameterType="com.yy.pojo.Collect">
+        insert into tp_music.collect(id,user_id,type,song_id,song_list_id,create_time)
+        values (#{id},#{userId},#{type},#{songId},#{songListId},#{createTime})
+    </insert>
+    <insert id="insertSelective" parameterType="com.yy.pojo.Collect">
+        insert into tp_music.collect
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id !=null">
+                id,
+            </if>
+            <if test="userId !=null">
+                user_id,
+            </if>
+<if test="type !=null">
+    type,
+</if>
+<if test="songId !=null">
+    song_id,
+</if>
+<if test="songListId !=null">
+    song_list_id,
+</if>
+<if test="createTime !=null">
+    create_time,
+</if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides="," >
+            <if test="id != null" >
+                #{id,jdbcType=INTEGER},
+            </if>
+            <if test="userId != null" >
+                #{userId,jdbcType=INTEGER},
+            </if>
+            <if test="type != null" >
+                #{type,jdbcType=TINYINT},
+            </if>
+            <if test="songId != null" >
+                #{songId,jdbcType=INTEGER},
+            </if>
+            <if test="songListId != null" >
+                #{songListId,jdbcType=INTEGER},
+            </if>
+            <if test="createTime != null" >
+                #{createTime,jdbcType=TIMESTAMP},
+            </if>
+        </trim>
+    </insert>
+<update id="updateCollectMsg" parameterType="com.yy.pojo.Collect">
+    update tp_music.collect
+    <set >
+        <if test="userId != null" >
+            user_id = #{userId,jdbcType=INTEGER},
+        </if>
+        <if test="type != null" >
+            type = #{type,jdbcType=TINYINT},
+        </if>
+        <if test="songId != null" >
+            song_id = #{songId,jdbcType=INTEGER},
+        </if>
+        <if test="songListId != null" >
+            song_list_id = #{songListId,jdbcType=INTEGER},
+        </if>
+        <if test="createTime != null" >
+            create_time = #{createTime,jdbcType=TIMESTAMP},
+        </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+</update>
+    <update id="updateByPrimaryKey" parameterType="com.yy.pojo.Collect">
+        update tp_music.collect
+        set user_id=#{userId},
+        type=#{type},
+        song_id=#{songId},
+        song_list_id=#{songListId},
+        create_time=#{createTime}
+        where id=#{id}
+    </update>
+    <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+        delete  from tp_music.collect
+        where id=#{id}
+    </delete>
+</mapper>
